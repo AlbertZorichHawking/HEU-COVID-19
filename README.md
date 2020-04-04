@@ -77,19 +77,19 @@ driver.find_element_by_id('password').send_keys('XXXXXXXX\n')#此处改为自己
 
 **1、**
 
-![](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\image-20200404200623388.png)
+![image-20200404200623388](https://github.com/AlbertZorichHawking/HEU-COVID-19/tree/master/img/image-20200404200623388.png)
 
 **2、**
 
-![image-20200404200653289](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\image-20200404200653289.png)
+![image-20200404200653289](https://github.com/AlbertZorichHawking/HEU-COVID-19/tree/master/img/image-20200404200653289.png)
 
 **3、**
 
-![image-20200404200802208](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\image-20200404200802208.png)
+![image-20200404200802208](https://github.com/AlbertZorichHawking/HEU-COVID-19/tree/master/img/image-20200404200802208.png)
 
 **4、**
 
-![image-20200404200834255](C:\Users\Albert\AppData\Roaming\Typora\typora-user-images\image-20200404200834255.png)
+![image-20200404200834255](https://github.com/AlbertZorichHawking/HEU-COVID-19/tree/master/img/image-20200404200834255.png)
 
 获取方法为：
 
