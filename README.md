@@ -48,9 +48,12 @@ Chrome 70.0.3538.16以后ChromeDriver版本号与Chrome版本号相同
 
 * 配置
 
-  进行解压ChromeDriver.
+  解压ChromeDriver.
+  
   将解压后的文件放入合适的位置.
+  
   Windows: 将解压后的文件放入配置了环境变量的文件夹, 如System32
+  
   Linux: 将解压后的文件移动到/usr/loacl/bin目录中.
 
 ##### 3、参数改动
