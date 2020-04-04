@@ -15,8 +15,8 @@ PS.由于这个最多用一个月，所以，并不知道有没有后续版本�
 ##### 1、pyautogui
 
 ```shell
-win: pip install pyautogui
-liunx: pip3 install pyautogui
+win: pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyautogui
+liunx: pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple pyautogui
 ```
 
 ##### 2、 Selenium和ChromeDriver的安装与配置
@@ -24,8 +24,8 @@ liunx: pip3 install pyautogui
 * 安装selenium:
 
 ```shell
-win: pip install selenium
-liunx: pip3 install selenium
+win: pip install -i https://pypi.tuna.tsinghua.edu.cn/simple selenium
+liunx: pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple selenium
 ```
 
 * 安装ChromeDriver,
@@ -95,7 +95,7 @@ driver.find_element_by_id('password').send_keys('XXXXXXXX\n')#此处改为自己
 
 获取方法为：
 
-1、 进入平安行动界面**最低端**!**最低端**!**最低端**!
+1、 进入平安行动界面**最底端**!**最底端**!**最底端**!
 
 2、全屏截图，将截图放于PS等画图软件之后，鼠标置于上四图位置获得坐标
 
